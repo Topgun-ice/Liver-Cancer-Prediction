@@ -6,8 +6,7 @@ should not be used for real clinical decisions. The model has not been validated
 datasets, and no regulatory approvals have been obtained.
 
 ## Overview
-A logistic regression model trained to predict the likelihood of liver cancer based on patient
-features (e.g. age, gender, and other clinical/biological indicators).
+Logistic regression model predicting liver cancer risk from clinical features (AST, ALT, age, gender). Includes EDA, feature scaling, model evaluation (accuracy, precision, recall, ROC-AUC), and coefficient-based feature importance analysis.
 
 ## Dataset
 - Source: liver_cancer_dataset/kaggle.com
