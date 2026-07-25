@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+.env
+
+# Data (health-related — do not commit raw patient data)
+data/*.csv
+
+# Models (optional: comment out if you want to track them)
+# models/*.pkl
+
+# OS
+.DS_Store
